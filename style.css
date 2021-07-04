@@ -38,3 +38,9 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+
+.middle-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
